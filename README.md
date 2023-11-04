@@ -26,7 +26,7 @@
    Installation is very easy! Just follow the steps below:
    
    1. Clone the repository
-      `git clone https://github.com/NocturaServices/Frontend.git`
+      `git clone https://github.com/code-testz/noctura`
    2. Install the dependencies
       `npm install`
    3. Run Noctura
