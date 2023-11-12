@@ -1,5 +1,5 @@
 {
-  "name": "noctura-frontend",
+  "name": "lunar-power",
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev --port 3000 --host",
