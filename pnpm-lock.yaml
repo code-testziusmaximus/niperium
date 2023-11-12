@@ -6210,9 +6210,9 @@ packages:
       - supports-color
     dev: false
 
-  github.com/titaniumnetwork-dev/ultraviolet/47dd8a4f7a21d963e6888064452d0e92d59272f0:
-    resolution: {tarball: https://codeload.github.com/titaniumnetwork-dev/ultraviolet/tar.gz/47dd8a4f7a21d963e6888064452d0e92d59272f0}
-    name: '@titaniumnetwork-dev/ultraviolet'
+  github.com/code-testz/namedisguiseforides:
+    resolution: {tarball: https://codeload.github.com/code-testz/namedisguiseforides}
+    name: '@code-testz/namedisguiseforides'
     version: 2.0.0
     dev: false
 
