@@ -34,7 +34,7 @@
     "globby": "^13.2.2",
     "html-minifier-terser": "^7.2.0",
     "lightningcss": "^1.21.7",
-    "rammerhead": "https://github.com/code-testz/hithead/releases/download/v1.2.41-holy.5/rammerhead-1.2.41-holy.5.tgz",
+    "rammerhead": "https://github.com/code-testz/hithead/",
     "sharp": "^0.32.5"
   },
   "type": "module",
