@@ -1,5 +1,4 @@
 {
-  "name": "exthumus- a powerful gmae platform",
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev --port 3000 --host",
