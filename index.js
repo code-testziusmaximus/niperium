@@ -1,5 +1,5 @@
 import fastifyStatic from "@fastify/static";
-import { uvPath } from "@titaniumnetwork-dev/ultraviolet";
+import { uvPath } from "@code-testz/namedisguiseforides";
 import { createBareServer } from "@tomphttp/bare-server-node";
 import Fastify from "fastify";
 import { createServer } from "http";
