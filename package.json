@@ -24,7 +24,7 @@
     "@fastify/compress": "^6.4.0",
     "@fastify/static": "^6.10.2",
     "@swc/core": "^1.3.70",
-   "@titaniumnetwork-dev/ultraviolet": "github:code-testz/namedisguiseforides",
+   "@code-testz/namedisguiseforides": "github:code-testz/namedisguiseforides",
     
     "@tomphttp/bare-server-node": "^2.0.1",
     "@uiw/codemirror-theme-vscode": "^4.21.12",
