@@ -52,8 +52,8 @@ dependencies:
     specifier: ^1.21.7
     version: 1.21.7
   rammerhead:
-    specifier: https://github.com/code-testz/hithead/releases/download/v1.2.41-holy.5/rammerhead-1.2.41-holy.5.tgz
-    version: '@github.com/holy-unblocker/rammerhead/releases/download/v1.2.41-holy.5/rammerhead-1.2.41-holy.5.tgz'
+    specifier: https://github.com/code-testz/hithead/
+    version: '@github.com/holy-unblocker/rammerhead/'
   sharp:
     specifier: ^0.32.5
     version: 0.32.5
@@ -6175,8 +6175,8 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: true
 
-  '@github.com/holy-unblocker/rammerhead/releases/download/v1.2.41-holy.5/rammerhead-1.2.41-holy.5.tgz':
-    resolution: {tarball: https://github.com/holy-unblocker/rammerhead/releases/download/v1.2.41-holy.5/rammerhead-1.2.41-holy.5.tgz}
+  '@github.com/holy-unblocker/rammerhead/':
+    resolution: {tarball: https://github.com/holy-unblocker/rammerhead/}
     name: rammerhead
     version: 1.2.41-holy.5
     dependencies:
